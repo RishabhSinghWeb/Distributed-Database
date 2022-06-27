@@ -1,7 +1,8 @@
 # Distributed Database for Group Chat
 <div style="text-align:center">
-  <img src="https://github.com/RishabhSinghWeb/Distributed-Database/raw/master/Static/img/model.png" alt="Working Model" height="300px"/>
+  <img src="https://raw.githubusercontent.com/RishabhSinghWeb/Distributed-Database/main/Static/images/model.png" alt="Working Model" height="300px"/>
 </div>
+
 ## Usage
 1. Clone the repository:
   ``` shell
